@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Tic Tac Toe Game
 ![](https://img.shields.io/badge/build-passing-brightgreen)
 <br>
 Mini Project - Tic Tac Toe Game for 2 players
